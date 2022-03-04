@@ -24,6 +24,11 @@ A curated list of awesome Question Answering over Knowledge Base (KBQA) resource
 - **Program Transfer and Ontology Awareness for Semantic Parsing in KBQA.** ACL 2022. [[pdf]](https://arxiv.org/abs/2110.05743)
   - *Shulin Cao, Jiaxin Shi, Zijun Yao, Lei Hou, Juanzi Li, Jinghui Xiao*
 
+#### 2020
+
+- **Query2box: Reasoning over Knowledge Graphs in Vector Space using Box Embeddings.** ICLR 2020. [[pdf]](https://arxiv.org/abs/2002.05969)
+  - *Hongyu Ren, Weihua Hu, Jure Leskovec*
+
 #### 2019
 
 - **PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text.** EMNLP 2019. [[pdf]](https://arxiv.org/abs/1904.09537)
