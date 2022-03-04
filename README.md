@@ -23,6 +23,8 @@ A curated list of awesome Question Answering over Knowledge Base (KBQA) resource
 
 - **Program Transfer and Ontology Awareness for Semantic Parsing in KBQA.** ACL 2022. [[pdf]](https://arxiv.org/abs/2110.05743)
   - *Shulin Cao, Jiaxin Shi, Zijun Yao, Lei Hou, Juanzi Li, Jinghui Xiao*
+- **LEGO: Latent Execution-Guided Reasoning for Multi-Hop Question Answering on Knowledge Graphs.** ICML 2021. [[pdf]](http://proceedings.mlr.press/v139/ren21a/ren21a.pdf)
+  - *Hongyu Ren, Hanjun Dai, Bo Dai, Xinyun Chen, Michihiro Yasunaga, Haitian Sun, Dale Schuurmans, Jure Leskovec, Denny Zhou*
 
 #### 2020
 
