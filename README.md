@@ -63,6 +63,8 @@ A curated list of awesome Question Answering over Knowledge Base (KBQA) resource
 
 ### Entity Linking
 
+#### 2021
+
 - **EntQA: Entity Linking as Question Answering.** ICLR 2022. [[pdf]](https://openreview.net/forum?id=US2rTP5nm_)
   - *Wenzheng Zhang, Wenyue Hua, Karl Stratos*
 
