@@ -11,6 +11,7 @@ A curated list of awesome Question Answering over Knowledge Base (KBQA) resource
   - [Papers](#papers)
     - [Information Retrieval](#information-retrieval)
     - [Semantic Parsing](#semantic-parsing)
+    - [Entity Linking](#entity-linking)
   - [Talks](#talks)
   - [Blogs](#blogs)
 
@@ -59,6 +60,11 @@ A curated list of awesome Question Answering over Knowledge Base (KBQA) resource
 
 - **Program Transfer and Ontology Awareness for Semantic Parsing in KBQA.** ACL 2022. [[pdf]](https://arxiv.org/abs/2110.05743)
   - *Shulin Cao, Jiaxin Shi, Zijun Yao, Lei Hou, Juanzi Li, Jinghui Xiao*
+
+### Entity Linking
+
+- **EntQA: Entity Linking as Question Answering.** ICLR 2022. [[pdf]](https://openreview.net/forum?id=US2rTP5nm_)
+  - *Wenzheng Zhang, Wenyue Hua, Karl Stratos*
 
 ## Talks
 
