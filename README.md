@@ -9,6 +9,8 @@ A curated list of awesome Question Answering over Knowledge Base (KBQA) resource
   
   - [Surveys & Overview](#surveys--overview)
   - [Papers](#papers)
+    - [Information Retrieval](#information-retrieval)
+    - [Semantic Parsing](#semantic-parsing)
   - [Talks](#talks)
   - [Blogs](#blogs)
 
@@ -19,10 +21,10 @@ A curated list of awesome Question Answering over Knowledge Base (KBQA) resource
 
 ## Papers
 
+### Information Retrieval
+
 #### 2021
 
-- **Program Transfer and Ontology Awareness for Semantic Parsing in KBQA.** ACL 2022. [[pdf]](https://arxiv.org/abs/2110.05743)
-  - *Shulin Cao, Jiaxin Shi, Zijun Yao, Lei Hou, Juanzi Li, Jinghui Xiao*
 - **LEGO: Latent Execution-Guided Reasoning for Multi-Hop Question Answering on Knowledge Graphs.** ICML 2021. [[pdf]](http://proceedings.mlr.press/v139/ren21a/ren21a.pdf)
   - *Hongyu Ren, Hanjun Dai, Bo Dai, Xinyun Chen, Michihiro Yasunaga, Haitian Sun, Dale Schuurmans, Jure Leskovec, Denny Zhou*
 - **SALKG: Learning From Knowledge Graph Explanations for Commonsense Reasoning.** NeurIPS 2021. [[pdf]](https://arxiv.org/pdf/2104.08793.pdf)
@@ -38,6 +40,12 @@ A curated list of awesome Question Answering over Knowledge Base (KBQA) resource
 - **PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text.** EMNLP 2019. [[pdf]](https://arxiv.org/abs/1904.09537)
   - *Haitian Sun, Tania Bedrax-Weiss, William W. Cohen*
 
+### Semantic Parsing
+
+#### 2021
+
+- **Program Transfer and Ontology Awareness for Semantic Parsing in KBQA.** ACL 2022. [[pdf]](https://arxiv.org/abs/2110.05743)
+  - *Shulin Cao, Jiaxin Shi, Zijun Yao, Lei Hou, Juanzi Li, Jinghui Xiao*
 
 ## Talks
 
