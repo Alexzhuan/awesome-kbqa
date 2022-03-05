@@ -40,6 +40,10 @@ A curated list of awesome Question Answering over Knowledge Base (KBQA) resource
 - **PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text.** EMNLP 2019. [[pdf]](https://arxiv.org/abs/1904.09537)
   - *Haitian Sun, Tania Bedrax-Weiss, William W. Cohen*
 
+#### 2018
+- **Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text.** EMNLP 2018. [[pdf]](https://arxiv.org/abs/1809.00782)
+  - *Haitian Sun, Bhuwan Dhingra, Manzil Zaheer, Kathryn Mazaitis, Ruslan Salakhutdinov, William W. Cohen*
+
 ### Semantic Parsing
 
 #### 2021
