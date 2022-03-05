@@ -49,6 +49,10 @@ A curated list of awesome Question Answering over Knowledge Base (KBQA) resource
 - **Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text.** EMNLP 2018. [[pdf]](https://arxiv.org/abs/1809.00782)
   - *Haitian Sun, Bhuwan Dhingra, Manzil Zaheer, Kathryn Mazaitis, Ruslan Salakhutdinov, William W. Cohen*
 
+#### 2017
+- **Question Answering on Knowledge Bases and Text using Universal Schema and Memory Networks.** ACL 2017. [[pdf]](Rajarshi Das, Manzil Zaheer, Siva Reddy, Andrew McCallum)
+  - *Rajarshi Das, Manzil Zaheer, Siva Reddy, Andrew McCallum*
+
 ### Semantic Parsing
 
 #### 2021
