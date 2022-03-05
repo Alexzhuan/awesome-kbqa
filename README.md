@@ -23,6 +23,11 @@ A curated list of awesome Question Answering over Knowledge Base (KBQA) resource
 
 ### Information Retrieval
 
+#### 2022
+
+- **GreaseLM: Graph REASoning Enhanced Language Models for Question Answering.** ICLR 2022. [[pdf]](https://arxiv.org/pdf/2201.08860.pdf)
+  - *Xikun Zhang, Antoine Bosselut, Michihiro Yasunaga, Hongyu Ren, Percy Liang, Christopher D. Manning, Jure Leskovec*
+
 #### 2021
 
 - **LEGO: Latent Execution-Guided Reasoning for Multi-Hop Question Answering on Knowledge Graphs.** ICML 2021. [[pdf]](http://proceedings.mlr.press/v139/ren21a/ren21a.pdf)
