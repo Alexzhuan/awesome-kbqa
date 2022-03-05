@@ -50,7 +50,7 @@ A curated list of awesome Question Answering over Knowledge Base (KBQA) resource
   - *Haitian Sun, Bhuwan Dhingra, Manzil Zaheer, Kathryn Mazaitis, Ruslan Salakhutdinov, William W. Cohen*
 
 #### 2017
-- **Question Answering on Knowledge Bases and Text using Universal Schema and Memory Networks.** ACL 2017. [[pdf]](Rajarshi Das, Manzil Zaheer, Siva Reddy, Andrew McCallum)
+- **Question Answering on Knowledge Bases and Text using Universal Schema and Memory Networks.** ACL 2017. [[pdf]](https://arxiv.org/abs/1704.08384)
   - *Rajarshi Das, Manzil Zaheer, Siva Reddy, Andrew McCallum*
 
 ### Semantic Parsing
