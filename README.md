@@ -17,6 +17,8 @@ A curated list of awesome Question Answering over Knowledge Base (KBQA) resource
 
 ## Surveys & Overview
 
+This section contains the papers that overview the general trends in recent question answering over knowledge base.
+
 - **A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions.** IJCAI 2021. [[pdf]](https://www.ijcai.org/proceedings/2021/0611.pdf)
   - *Yunshi Lan, Gaole He, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen*
 
