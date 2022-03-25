@@ -70,12 +70,14 @@ This section contains the papers that overview the general trends in recent ques
 
 #### 2020
 
+- **SPARQA: Skeleton-based Semantic Parsing for Complex Questions over Knowledge Bases.** AAAI 2020. [[pdf]](https://arxiv.org/pdf/2003.13956.pdf)
+  - *Yawei Sun, Lingling Zhang, Gong Cheng, Yuzhong Qu*
 - **Query2box: Reasoning over Knowledge Graphs in Vector Space using Box Embeddings.** ICLR 2020. [[pdf]](https://arxiv.org/abs/2002.05969)
   - *Hongyu Ren, Weihua Hu, Jure Leskovec*
 
 ### Entity Linking
 
-#### 2021
+#### 2022
 
 - **EntQA: Entity Linking as Question Answering.** ICLR 2022. [[pdf]](https://openreview.net/forum?id=US2rTP5nm_)
   - *Wenzheng Zhang, Wenyue Hua, Karl Stratos*
