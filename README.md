@@ -45,6 +45,8 @@ This section contains the papers that overview the general trends in recent ques
 
 - **Differentiable Reasoning over a Virtual Knowledge Base.** ICLR 2020. [[pdf]](https://arxiv.org/abs/2002.10640)
   - *Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov, William W. Cohen*
+- **Stepwise Reasoning for Multi-Relation Question Answering over Knowledge Graph with Weak Supervision** WSDM 2020. [[pdf]](https://dl.acm.org/doi/10.1145/3336191.3371812)
+  - *Yunqi Qiu, Yuanzhuo Wang, Xiaolong Jin, Kun Zhang*
 
 #### 2019
 
