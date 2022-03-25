@@ -36,6 +36,9 @@ This section contains the papers that overview the general trends in recent ques
 - **SALKG: Learning From Knowledge Graph Explanations for Commonsense Reasoning.** NeurIPS 2021. [[pdf]](https://arxiv.org/pdf/2104.08793.pdf)
   - *Aaron Chan, Jiashu Xu, Boyuan Long, Soumya Sanyal, Tanishq Gupta, Xiang Ren*
 
+- **Reasoning Over Virtual Knowledge Bases With Open Predicate Relations.** ICML 2021. [[pdf]](https://arxiv.org/abs/2102.07043)
+  - *Haitian Sun, Pat Verga, Bhuwan Dhingra, Ruslan Salakhutdinov, William W. Cohen*
+
 #### 2020
 
 - **Differentiable Reasoning over a Virtual Knowledge Base.** ICLR 2020. [[pdf]](https://arxiv.org/abs/2002.10640)
