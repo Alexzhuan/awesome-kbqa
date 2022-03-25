@@ -35,7 +35,6 @@ This section contains the papers that overview the general trends in recent ques
 
 - **SALKG: Learning From Knowledge Graph Explanations for Commonsense Reasoning.** NeurIPS 2021. [[pdf]](https://arxiv.org/pdf/2104.08793.pdf)
   - *Aaron Chan, Jiashu Xu, Boyuan Long, Soumya Sanyal, Tanishq Gupta, Xiang Ren*
-
 - **Reasoning Over Virtual Knowledge Bases With Open Predicate Relations.** ICML 2021. [[pdf]](https://arxiv.org/abs/2102.07043)
   - *Haitian Sun, Pat Verga, Bhuwan Dhingra, Ruslan Salakhutdinov, William W. Cohen*
 
@@ -63,7 +62,6 @@ This section contains the papers that overview the general trends in recent ques
 
 - **Program Transfer and Ontology Awareness for Semantic Parsing in KBQA.** ACL 2022. [[pdf]](https://arxiv.org/abs/2110.05743)
   - *Shulin Cao, Jiaxin Shi, Zijun Yao, Lei Hou, Juanzi Li, Jinghui Xiao*
-
 - **LEGO: Latent Execution-Guided Reasoning for Multi-Hop Question Answering on Knowledge Graphs.** ICML 2021. [[pdf]](http://proceedings.mlr.press/v139/ren21a/ren21a.pdf)
   - *Hongyu Ren, Hanjun Dai, Bo Dai, Xinyun Chen, Michihiro Yasunaga, Haitian Sun, Dale Schuurmans, Jure Leskovec, Denny Zhou*
 
