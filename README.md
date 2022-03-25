@@ -38,6 +38,8 @@ This section contains the papers that overview the general trends in recent ques
   - *Aaron Chan, Jiashu Xu, Boyuan Long, Soumya Sanyal, Tanishq Gupta, Xiang Ren*
 - **Reasoning Over Virtual Knowledge Bases With Open Predicate Relations.** ICML 2021. [[pdf]](https://arxiv.org/abs/2102.07043)
   - *Haitian Sun, Pat Verga, Bhuwan Dhingra, Ruslan Salakhutdinov, William W. Cohen*
+- **Improving Multi-hop Knowledge Base Question Answering by Learning Intermediate Supervision Signals.** WSDM 2021. [[pdf]](https://arxiv.org/pdf/2101.03737.pdf)
+  - *Gaole He, Yunshi Lan, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen*
 
 #### 2020
 
