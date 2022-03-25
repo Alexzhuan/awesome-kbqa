@@ -27,7 +27,8 @@ This section contains the papers that overview the general trends in recent ques
 ### Information Retrieval
 
 #### 2022
-
+- **Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering.** ACL 2022 [[pdf]](https://arxiv.org/abs/2202.13296)
+  - *Jing Zhang, Xiaokang Zhang, Jifan Yu, Jian Tang, Jie Tang, Cuiping Li, Hong Chen*
 - **GreaseLM: Graph REASoning Enhanced Language Models for Question Answering.** ICLR 2022. [[pdf]](https://arxiv.org/pdf/2201.08860.pdf)
   - *Xikun Zhang, Antoine Bosselut, Michihiro Yasunaga, Hongyu Ren, Percy Liang, Christopher D. Manning, Jure Leskovec*
 
