@@ -27,6 +27,8 @@ This section contains the papers that overview the general trends in recent ques
 ### Information Retrieval
 
 #### 2022
+- **Augmenting Pre-trained Language Models with QA-Memory for Open-Domain Question Answering.** Preprint 2022 [[pdf]](https://arxiv.org/abs/2204.04581)
+  - *Wenhu Chen, Pat Verga, Michiel de Jong, John Wieting, William Cohen*
 - **Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering.** ACL 2022 [[pdf]](https://arxiv.org/abs/2202.13296)
   - *Jing Zhang, Xiaokang Zhang, Jifan Yu, Jian Tang, Jie Tang, Cuiping Li, Hong Chen*
 - **GreaseLM: Graph REASoning Enhanced Language Models for Question Answering.** ICLR 2022. [[pdf]](https://arxiv.org/pdf/2201.08860.pdf)
