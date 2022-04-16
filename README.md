@@ -51,6 +51,8 @@ This section contains the papers that overview the general trends in recent ques
   - *Yunqi Qiu, Yuanzhuo Wang, Xiaolong Jin, Kun Zhang*
 - **Two-Phase Hypergraph Based Reasoning with Dynamic Relations for Multi-Hop KBQA.** IJCAI 2020. [[pdf]](https://www.ijcai.org/Proceedings/2020/0500.pdf)
   - *Jiale Han, Bo Cheng, Xu Wang*
+- **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering**. ICLR 2020. [[pdf]](https://arxiv.org/abs/1911.10470)
+  - *Akari Asai, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, Caiming Xiong*
 
 #### 2019
 
