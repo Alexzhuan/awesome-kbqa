@@ -27,6 +27,9 @@ This section contains the papers that overview the general trends in recent ques
 ### Information Retrieval
 
 #### 2022
+
+- **CBR-iKB: A Case-Based Reasoning Approach for Question Answering over Incomplete Knowledge Bases**. Preprint, 2022. [[pdf]](https://arxiv.org/abs/2204.08554)
+  - *Dung Thai, Srinivas Ravishankar, Ibrahim Abdelaziz, Mudit Chaudhary, Nandana Mihindukulasooriya, Tahira Naseem, Rajarshi Das, Pavan Kapanipathi, Achille Fokoue, Andrew McCallum*
 - **Augmenting Pre-trained Language Models with QA-Memory for Open-Domain Question Answering.** Preprint 2022 [[pdf]](https://arxiv.org/abs/2204.04581)
   - *Wenhu Chen, Pat Verga, Michiel de Jong, John Wieting, William Cohen*
 - **Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering.** ACL 2022 [[pdf]](https://arxiv.org/abs/2202.13296)
