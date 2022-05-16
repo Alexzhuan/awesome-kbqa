@@ -13,6 +13,7 @@ A curated list of awesome Question Answering over Knowledge Base (KBQA) resource
     - [Semantic Parsing](#semantic-parsing)
     - [Entity Linking](#entity-linking)
   - [Talks](#talks)
+  - [Dataset](#dataset)
   - [Blogs](#blogs)
 
 ## Surveys & Overview
@@ -36,6 +37,8 @@ This section contains the papers that overview the general trends in recent ques
   - *Jing Zhang, Xiaokang Zhang, Jifan Yu, Jian Tang, Jie Tang, Cuiping Li, Hong Chen*
 - **GreaseLM: Graph REASoning Enhanced Language Models for Question Answering.** ICLR 2022. [[pdf]](https://arxiv.org/pdf/2201.08860.pdf)
   - *Xikun Zhang, Antoine Bosselut, Michihiro Yasunaga, Hongyu Ren, Percy Liang, Christopher D. Manning, Jure Leskovec*
+- **Knowledge Graph Question Answering Datasets and Their Generalizability: Are They Enough for Future Research?** SIGIR 2022 (Resource Track) [[pdf]](https://arxiv.org/abs/2205.06573)
+  - *Longquan Jiang, Ricardo Usbeck*
 
 #### 2021
 
@@ -94,5 +97,6 @@ This section contains the papers that overview the general trends in recent ques
   - *Wenzheng Zhang, Wenyue Hua, Karl Stratos*
 
 ## Talks
+
 
 ## Blogs
