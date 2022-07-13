@@ -46,6 +46,8 @@ This section contains the papers that overview the general trends in recent ques
   - *Haitian Sun, Pat Verga, Bhuwan Dhingra, Ruslan Salakhutdinov, William W. Cohen*
 - **Improving Multi-hop Knowledge Base Question Answering by Learning Intermediate Supervision Signals.** WSDM 2021. [[pdf]](https://arxiv.org/pdf/2101.03737.pdf)
   - *Gaole He, Yunshi Lan, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen*
+- **SQALER: Scaling Question Answering by Decoupling Multi-Hop and Logical Reasoning.** NeurIPS. [[pdf]](https://proceedings.neurips.cc/paper/2021/file/68bd22864919297c8c8a8c32378e89b4-Paper.pdf)
+  - *Mattia Atzeni, Jasmina Bogojeska, Andreas Loukas*
 
 #### 2020
 
