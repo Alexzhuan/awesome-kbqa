@@ -48,6 +48,8 @@ This section contains the papers that overview the general trends in recent ques
   - *Gaole He, Yunshi Lan, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen*
 - **SQALER: Scaling Question Answering by Decoupling Multi-Hop and Logical Reasoning.** NeurIPS. [[pdf]](https://proceedings.neurips.cc/paper/2021/file/68bd22864919297c8c8a8c32378e89b4-Paper.pdf)
   - *Mattia Atzeni, Jasmina Bogojeska, Andreas Loukas*
+- **Case-based Reasoning for Natural Language Queries over Knowledge Bases.** EMNLP. [[pdf]](https://aclanthology.org/2021.emnlp-main.755/)
+  - *Rajarshi Das, Manzil Zaheer, Dung Thai, Ameya Godbole, Ethan Perez, Jay Yoon Lee, Lizhen Tan, Lazaros Polymenakos, Andrew McCallum*
 
 #### 2020
 
